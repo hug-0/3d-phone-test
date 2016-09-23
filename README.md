@@ -1,2 +1,2 @@
 # 3d-phone-test
-Create abstract patterns in 3D with your iPhone
+Control a 3D cube in your laptop browser by moving your iPhone around.
